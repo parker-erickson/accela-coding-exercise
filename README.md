@@ -61,7 +61,7 @@ Example: http://localhost:8081/api/v1/person/1
 ## Get the count of all people
 Navigate to: http://localhost:8081/api/v1/person/count
 
-#DELETE:
+# DELETE:
 ## Delete person by id
 // Run a Delete command in the API tool and append the id you want to delete at the end of the url
 Example: http://localhost:8081/api/v1/person/1
