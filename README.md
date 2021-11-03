@@ -11,9 +11,9 @@ Steps to run the program:
 5. open an API tool such as Postman
 6. Submit your requests there.
 
-Requests:
+# Requests:
 
-#POST: 
+# POST: 
 
 ## Add a person
 
