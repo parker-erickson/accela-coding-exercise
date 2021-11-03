@@ -16,11 +16,11 @@ Requests:
 ## Add a person
 
 localhost:8081/api/v1/person/
-{
-    "firstname" : "Gordon",
-    "lastname" : "Ramsey",
-    "id":1
-}
+## {
+##    "firstname" : "Gordon",
+##    "lastname" : "Ramsey",
+##    "id":1
+## }
 
 ## Add an address to a person
 // Append the id you would like to add an address to at the end of the url.
