@@ -1,5 +1,7 @@
 # accela-coding-exercise
 
+This is a coding ecercise completed as an assesment of my skills for Accela. The program is an API containing JSON data, and built using SpringBoot. To use the API it is required that the user have a working API managing tool such as Postman. 
+
 Steps to run the program:
 
 1. Clone the repo
@@ -16,11 +18,11 @@ Requests:
 ## Add a person
 
 localhost:8081/api/v1/person/
-## {
-##    "firstname" : "Gordon",
-##    "lastname" : "Ramsey",
-##    "id":1
-## }
+{
+    "firstname" : "Gordon",
+    "lastname" : "Ramsey",
+    "id":1
+}
 
 ## Add an address to a person
 // Append the id you would like to add an address to at the end of the url.
